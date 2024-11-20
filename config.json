@@ -1,0 +1,6 @@
+{
+    "github_repo": "https://github.com/ivs-jlewinski/basic_update_python_app/main",
+    "installer_file": "BasicUpdateApp.exe",
+    "version_file": "version.txt",
+    "current_version": 1.0
+}
